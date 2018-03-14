@@ -1,0 +1,7 @@
+1. Execute testRunner_script.py
+2. If executing using command line, please use "python3 testRunner_script.py"
+3. You will need to install "pytablewriter" and "requests". Install with: "pip3 install requests" , "pip3 install pytablewriter"
+4. The main logic is in testLibs/core_lib.py
+5. Can specify or modify values from config.json such as base url, response time, connect time etc
+6. Using requests http librabry
+

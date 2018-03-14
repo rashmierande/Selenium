@@ -1,0 +1,9 @@
+{
+  "getUrl":{
+    "base_url":"api.wunderground.com",
+    "response_time":3.0,
+    "timeout":60,
+    "connect":5,
+    "test_data":"/data/weather.json"
+  }
+}
